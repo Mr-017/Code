@@ -1,3 +1,3 @@
 # Python
 # Java
-# C语言
+# C
